@@ -1,1 +1,2 @@
 # Air-Quality-Index-AQI-Analysis-Power-BI-Dashboard
+An interactive Power BI dashboard to analyze Air Quality Index (AQI) data across different years, states, areas, and cities. The dashboard features key metrics such as average and maximum AQI, primary pollutants, AQI categories, city-wise comparisons, geographic mapping, and AQI trends over time. It helps identify pollution hotspots and understand air quality patterns using dynamic filters and clear visual insights.
